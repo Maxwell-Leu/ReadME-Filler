@@ -52,9 +52,9 @@ This application is under this license: ${data.license}
 
 ## Questions
 
-For further questions reachout
-${data.username}
-${data.email}
+For further questions reachout \\
+GitHub username: ${data.username} \\
+Email: ${data.email}
 `;
 }
 

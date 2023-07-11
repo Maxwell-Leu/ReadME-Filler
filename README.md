@@ -35,6 +35,6 @@ This application is under this license: unlicense
 
 ## Questions
 
-For further questions reach out
-Maxwell-Leu
-Mleuthner2002@gmail.com
+For further questions reach out \
+GitHub username: Maxwell-Leu \
+Email: Mleuthner2002@gmail.com
