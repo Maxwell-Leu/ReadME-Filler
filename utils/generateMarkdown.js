@@ -22,12 +22,12 @@ ${data.description}
 
 ## Table of Contents
 
--[Installation](#installation)/
--[Usage](#usage)/
--[Contribution Guidelines](#contribution_guidelines)/
--[Test Instructions](#test_instructions)/
--[License](#license)/
--[Questions](#Questions)/
+-[Installation](#installation)\\
+-[Usage](#usage)\\
+-[Contribution Guidelines](#contribution_guidelines)\\
+-[Test Instructions](#test_instructions)\\
+-[License](#license)\\
+-[Questions](#Questions)\
 
 ## Installation Instructions
 
