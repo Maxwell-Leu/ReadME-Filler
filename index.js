@@ -39,7 +39,7 @@ function init() {
         {
             type: 'input',
             name: 'instal',
-            message: 'What does the user need to do for instal'
+            message: 'What does the user need to do for install'
         },
         {
             type:'input',
