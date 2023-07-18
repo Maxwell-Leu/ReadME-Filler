@@ -2,7 +2,8 @@
 
 ## Description
 
-Fills out a README given user input
+Fills out a README given user input \
+Demonstration: https://www.youtube.com/watch?v=w_rIxUgQ_bY
 
 ## Table of Contents
 
